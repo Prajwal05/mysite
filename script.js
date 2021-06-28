@@ -1,12 +1,12 @@
 
-	window.onload = function () {
-	window.setTimeout(fadeout, 500);
-	}
+window.onload = function () {
+	window.setTimeout(fadeout, 800);
+}
 
-	function fadeout() {
+function fadeout() {
 	document.querySelector('.preloader').style.opacity = '0';
 	document.querySelector('.preloader').style.display = 'none';
-	}
+}
 
 
 function myskill(){
