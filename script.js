@@ -1,6 +1,4 @@
-function clicking(){
-alert"Prajwal Nunni";
-}
+
     window.onload = function () {
 		window.setTimeout(fadeout, 500);
 	}
